@@ -3,14 +3,14 @@
   "version": "0.0.1",
   "private": true,
   "devDependencies": {
-    "react-scripts": "^3.0.0"
+    "react-scripts": "^5.0.1"
   },
   "dependencies": {
     "prop-types": "^15.7.2",
     "react": "^16.8.6",
     "react-bootstrap": "^1.0.1",
     "react-card-flip": "^1.0.10",
-    "react-devtools": "^4.6.0",
+    "react-devtools": "^4.28.5",
     "react-dom": "^16.8.6",
     "react-redux": "^7.2.0",
     "react-router-dom": "^5.1.2",
